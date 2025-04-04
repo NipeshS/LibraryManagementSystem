@@ -11,8 +11,8 @@
 //4. Return Book → Marks the book as returned.
 //5. Display Books → Shows the list of available books.
 //6. Exit → Ends the program.
-package Projects.Jan;
-   import java.util.Scanner;
+
+import java.util.Scanner;
 class Book {
     String title;
     String author;
